@@ -2751,7 +2751,8 @@
 			position: absolute;
 			top: 0;
 			object-fit: contain;
-			width:100px;height:100px;
+			width: 10%;
+			height:auto;
 		}
 		
 		#header a {
@@ -2769,7 +2770,10 @@
 			#header a:hover {
 				color: #ffffff;
 			}
-
+			#header option {
+				color: #01056B;
+				
+			}
 			#header a:last-child {
 				padding-right: 0;
 			}
