@@ -1,4 +1,10 @@
 @charset "UTF-8";
+.centered-text {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 20px 0;
+}
 @import url(font-awesome.min.css);
 @import "https://fonts.googleapis.com/css?family=Raleway:100,300,600";
 
@@ -3082,5 +3088,4 @@
 			flex-direction: column;
 			text-align: center;
 		}
-
 	}
